@@ -1,0 +1,32 @@
+.js .animate-box{
+  opacity: 1 !important;
+}
+.haiquan-loader{
+  display: none !important;
+}
+#haiquan-header{
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.haiquan-cover .overlay {
+  background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) repeat\0;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#e62a3356,endColorstr=#e62a3356)\0;
+  zoom: 1\0;
+  background: url(../images/img_bg_1.jpg);
+  opacity: 0\9;
+}
+:root .haiquan-cover .overlay {
+  filter: none\9;
+}
+
+// 文章列表
+#haiquan-new .haiquan-post h3{
+  width: 100%;
+  height: 52px;
+  overflow: hidden;
+}
+#haiquan-new .haiquan-post p{
+  width: 100%;
+  height: 134px;
+  overflow: hidden;
+}

@@ -1,0 +1,29 @@
+
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconitems/iconfont.eot?t=1495509281428'); /* IE9*/
+  src: url('../fonts/iconitems/iconfont.eot?t=1495509281428#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/iconitems/iconfont.woff?t=1495509281428') format('woff'), /* chrome, firefox */
+  url('../fonts/iconitems/iconfont.ttf?t=1495509281428') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/iconitems/iconfont.svg?t=1495509281428#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tuandui:before { content: "\e609"; }
+
+.icon-fadianji:before { content: "\e632"; }
+
+.icon-yeji:before { content: "\e661"; }
+
+.icon-xiaoshouqudao:before { content: "\e68d"; }
+
+.icon-ziyuanzhichi:before { content: "\e760"; }
+
+.icon-shangji:before { content: "\e600"; }
+
