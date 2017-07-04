@@ -73,8 +73,8 @@
 		$('#page').prepend('<a href="#" class="js-haiquan-nav-toggle haiquan-nav-toggle haiquan-nav-white"><i></i></a>');
 		var clone1 = $('.menu-1 > ul').clone();
 		$('#haiquan-offcanvas').append(clone1);
-		var clone2 = $('.menu-2 > ul').clone();
-		$('#haiquan-offcanvas').append(clone2);
+		// var clone2 = $('.menu-2 > ul').clone();
+		// $('#haiquan-offcanvas').append(clone2);
 
 		$('#haiquan-offcanvas .has-dropdown').addClass('offcanvas-has-dropdown');
 		$('#haiquan-offcanvas')
